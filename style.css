@@ -1,0 +1,56 @@
+body{
+    background: linear-gradient(to bottom, #001B57, #003D99);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.center {
+    display:flex;
+    justify-content: center;
+    padding: 150px;
+}
+
+.txt {
+    text-align: center;
+    color: white;
+}
+
+.logo{
+    width: 50%;
+}
+
+.numeroTire{
+color : white ;
+background-color : navy ;
+border-radius : 180px ;
+width : 50px ;
+margin : 10px ;
+padding : 20px ;
+font-size : 50px ;
+}
+
+.etoileTiree {
+color: black ;
+padding: 45px ;
+font-size: 50px ;
+margin : 10px ;
+text-align: center ;
+background-image: url(img/etoile.svg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: 130px;
+}
+
+#affichage {
+display: flex;
+align-items: baseline;
+justify-content: center;
+border-radius: 50px;
+background-color: white;
+}
+
+.bandeau{
+
+
+}
